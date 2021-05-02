@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-algorand-payment-component'
+import { AlgoPayment } from 'react-algorand-payment-component'
 import 'react-algorand-payment-component/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <AlgoPayment receivingAccount="YOUR_ACCOUNT_HERE" />
 }
 
 export default App
