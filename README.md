@@ -27,6 +27,14 @@ class Example extends Component {
 }
 ```
 
+The component looks like this
+
+![image](https://user-images.githubusercontent.com/763527/116831590-91c00e80-ab6d-11eb-8abc-8f04ca051d79.png)
+
+and when you click the button, AlgoSigner will launch with a transaction, ready to be signed and sent.
+
+![image](https://user-images.githubusercontent.com/763527/116831657-e6fc2000-ab6d-11eb-9e09-7320dae8f3f2.png)
+
 ## License
 
 MIT © [jonmoshier](https://github.com/jonmoshier)
