@@ -2,6 +2,8 @@
 
 This is completely new, WIP, Draft, do not use this yet, you've been warned.
 
+Just want to see the code? Look at the [AlgoPayments component](https://github.com/jonmoshier/react-algorand-payment-component/blob/main/src/index.js)
+
 > Component to integrate algorand payments
 
 [![NPM](https://img.shields.io/npm/v/react-algorand-payment-component.svg)](https://www.npmjs.com/package/react-algorand-payment-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
